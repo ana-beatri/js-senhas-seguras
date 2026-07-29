@@ -108,6 +108,10 @@ body{
     font-size: 24px;
     label{
     font-size: 20px;
+}.checkbox{
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
 }
 }
 
